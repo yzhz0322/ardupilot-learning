@@ -1,1 +1,1 @@
-nvivskla
+nvivsklagit remote add origin https://github.com/yzhz0322/racebot.gitgit remote add origin https://github.com/yzhz0322/racebot.gitgit remote add origin https://github.com/yzhz0322/racebot.git
